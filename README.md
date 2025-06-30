@@ -90,4 +90,4 @@ Contributions are welcome! If you have ideas for improvements or find a bug, ple
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU License.
