@@ -90,4 +90,3 @@ Diese Anleitung führt dich durch den Prozess, das FTPS-Modul in eine n8n-Entwic
     *   Konfiguriere die Felder "Local File Path" und "Remote File Path".
     *   Führe den Knoten aus, um eine Datei hochzuladen.
 
-Das war's! Du hast erfolgreich ein benutzerdefiniertes n8n-Modul erstellt und in Betrieb genommen.
